@@ -1,7 +1,7 @@
 # Introduction à la Business Intelligence : Paris Descartes Université & SAP
 
 ## Overview
-The aim of this cours is to introduce the Business Intelligence module delivered to Paris Descartes MIAGE, Master 1 students by SAP. 
+The aim of this course is to introduce the Business Intelligence module delivered to Paris Descartes MIAGE, Master 1 students by SAP. 
 
 ## Hands on Session Description
 The Hands on session will focus on basic Business Intelligence concepts :
