@@ -1,7 +1,31 @@
+# Introduction à la Business Intelligence : Paris Descartes Université & SAP
+
+## Overview
+The aim of this cours is to introduce the Business Intelligence module delivered to Paris Descartes MIAGE, Master 1 students by SAP. 
+
+## Hansds on Session Description
+The Hands on session will focus on basic Business Intelligence concepts :
+- Data type  
+- Time Dimension  
+- Sort  
+- Rank  
+- Filter 
+- Aggregation  
+- Additive   
+- Projection 
+- Visualization
+
+The dataset used during this session can be found within : 
+Most Streamed Spotify Songs 2023 
+https://www.kaggle.com/datasets/rajatsurana979/most-streamed-spotify-songs-2023/data  
+
+## Getting Started
+
+In order to start the session you will need to clone this GIT repo:
+
 git clone https://github.com/SAP-BI/IntroBI-Paris-Descartes.git
 
-pip3 install pandas
-pip3 install seaborn
+You can then follow up the instruction wihtin the file : spotify-2023.ipynb
 
-VS Code plugins
+Suggested VS Code plugins :
 janisdd.vscode-edit-csv
