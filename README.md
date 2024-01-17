@@ -1,5 +1,7 @@
 # Introduction à la Business Intelligence : Paris Descartes Université & SAP
 
+<img width="859" alt="Screenshot 2024-01-17 at 18 24 16" src="https://github.com/SAP-BI/IntroBI-Paris-Descartes/assets/151649427/a4da8f34-e999-49cc-a25d-26075a8c753a">
+
 ## Overview
 The aim of this course is to introduce the Business Intelligence module delivered to Paris Descartes MIAGE, Master 1 students by SAP. 
 
