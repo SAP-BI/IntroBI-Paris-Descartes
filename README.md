@@ -1,4 +1,4 @@
-# Introduction à la Business Intelligence : Paris Descartes Université & SAP
+# Introduction à la Business Intelligence 
 
 <img width="859" alt="Screenshot 2024-01-17 at 18 24 16" src="https://github.com/SAP-BI/IntroBI-Paris-Descartes/assets/151649427/a4da8f34-e999-49cc-a25d-26075a8c753a">
 
