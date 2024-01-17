@@ -19,6 +19,13 @@ The dataset used during this session can be found within :
 Most Streamed Spotify Songs 2023 
 https://www.kaggle.com/datasets/rajatsurana979/most-streamed-spotify-songs-2023/data  
 
+What python package will we use?
+
+- pandas	: The Goto dataframe and data wrangling package
+- seaborn : For vizualisation
+- Numpy 	: For numerical calculation
+- datetime	: Optional
+
 ## Getting Started
 
 In order to start the session you will need to clone this GIT repo:
