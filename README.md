@@ -41,6 +41,6 @@ janisdd.vscode-edit-csv
 
 ## Suggested Reading
 
-The Truthful Art: Data, Charts, and Maps for Communication by Alberto Cairo
-Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures by Claus Wilke
-Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic 
+-  The Truthful Art: Data, Charts, and Maps for Communication by Alberto Cairo
+-  Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures by Claus Wilke
+-  Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic 
